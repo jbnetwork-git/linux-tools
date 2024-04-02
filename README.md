@@ -1,4 +1,4 @@
-# check-xz.sh
+# JB-Network - check-xz.sh
 
 Utileria para revisar si tienes una version vulnerable de acuerdo al CVE-2024-3094.
 ## Installation
