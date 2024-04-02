@@ -12,6 +12,7 @@ chmod +x ~/git/check-xz.sh
 ## ¿Como ejecutar?
 
 ```bash
+cd ~/git
 ./check-xz.sh
 ```
 ## Licencia.
